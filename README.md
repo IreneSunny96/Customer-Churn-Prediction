@@ -13,10 +13,13 @@ We used exploratory data analysis to understand churn patterns, followed by the 
 The study revealed logistic regression, SVM (with hyperparameter tuning), and ANN (with hyperparameter tuning) as the most effective in churn prediction. This analysis offers a pragmatic approach for telecommunication companies to tailor their retention strategies.
 
 ## Files in this repository
-ML_DSBA_Project_Description.pdf - The PDF released by the professor, stating the guidelines and requirements to be followed, along with evaluation criteria.
-WA_Fn-UseC_-Telco-Customer-Churn.csv - The sample dataset available from https://www.kaggle.com/datasets/blastchar/telco-customer-churn. It is divided into training and testing. 
-FML_Final Project Report_District 12.ipynb - The code containing the end to end execution of the Exploratory Data Analysis and the final best performing models
-FML_Final Project Report_District 12.pdf - Final report describing the end to end execution of the project.
+1. ML_DSBA_Project_Description.pdf - The PDF released by the professor, stating the guidelines and requirements to be followed, along with evaluation criteria.
+   
+2. WA_Fn-UseC_-Telco-Customer-Churn.csv - The sample dataset available from https://www.kaggle.com/datasets/blastchar/telco-customer-churn. It is divided into training and testing.
+    
+3. FML_Final Project Report_District 12.ipynb - The code containing the end to end execution of the Exploratory Data Analysis and the final best performing models
+   
+4. FML_Final Project Report_District 12.pdf - Final report describing the motivation behind selection of topic, problem definition, methodology, evaluation and business implication.
 
 ## How to Use
 Clone this repository.
