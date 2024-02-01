@@ -1,7 +1,7 @@
 # Customer Churn Prediction in Telecommunications
 
 ## Project Overview
-This project, undertaken as part of Machine Learning Coursework in final year DSBA, focuses on predict and understand customer churn patterns using dominant determinants within a fictional telecommunication company, Telco. By leveraging different predictive modelling, we aim to develop a robust solution that can foresee potential customer departures. 
+This project, undertaken as part of Machine Learning Coursework in final year DSBA, focuses on predicting and understanding customer churn patterns using dominant determinants within a fictional telecommunication company, Telco. By leveraging different predictive modelling, we aimed to develop a robust solution that can foresee potential customer departures. 
 
 ## Business Challenge
 Customer churn directly impacts revenue and growth in the telecom sector. This project aims to understand and predict churn, thereby enabling more informed and strategic decision-making for customer retention. Our study can facilitate the construction of an effective prediction tool for managers in the telecom sector to discover the underlying churn-risk customers which have a high probability of transferring to their competitors. Under such circumstances, the managers can take favourable measures to re-attract those underlying churners by promoting the dominant determinants revealed by this study through ML feature selection techniques.
