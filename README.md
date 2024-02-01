@@ -15,11 +15,13 @@ The study revealed logistic regression, SVM (with hyperparameter tuning), and AN
 ## Files in this repository
 1. ML_DSBA_Project_Description.pdf - The PDF released by the professor, stating the guidelines and requirements to be followed, along with evaluation criteria.
    
-2. WA_Fn-UseC_-Telco-Customer-Churn.csv - The sample dataset available from https://www.kaggle.com/datasets/blastchar/telco-customer-churn. It is divided into training and testing.
-    
-3. FML_Final Project Report_District 12.ipynb - The code containing the end to end execution of the Exploratory Data Analysis and the final best performing models
+2. FML_Final Project Proposal_District 12 - The proposal for the final project describing the motivation behind the choice and action plan for the execution.
    
-4. FML_Final Project Report_District 12.pdf - Final report describing the motivation behind selection of topic, problem definition, methodology, evaluation and business implication.
+3. WA_Fn-UseC_-Telco-Customer-Churn.csv - The sample dataset available from https://www.kaggle.com/datasets/blastchar/telco-customer-churn. It is divided into training and testing.
+    
+4. FML_Final Project Report_District 12.ipynb - The code containing the end to end execution of the Exploratory Data Analysis and the final best performing models
+   
+5. FML_Final Project Report_District 12.pdf - Final report describing the motivation behind selection of topic, problem definition, methodology, evaluation and business implication.
 
 ## How to Use
 Clone this repository.
